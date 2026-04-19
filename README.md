@@ -1,42 +1,82 @@
-ndonesia National Disaster Intelligence (2020-2023)
-Project Background
-This project transforms 28,000+ raw disaster records into an interactive strategic tool to move from reactive response to proactive mitigation. By correlating disaster frequency with human and infrastructure loss, this dashboard provides the "Ground Truth" for data-driven emergency budgeting and resource allocation.
+Berikut versi yang sudah dirapikan dan cocok untuk **README.md (GitHub)** — lebih clean, profesional, dan enak dibaca:
 
-Visual Insights & Operational Impact
-1. Executive KPIs & Growth Trends
+---
 
-Insight: Real-time tracking of 83K Victims and 6M Infrastructure Impact with dynamic YoY growth.
+# 🇮🇩 Indonesia National Disaster Intelligence (2020–2023)
 
-Impact: Identifies severity escalations, allowing authorities to detect if current mitigation policies are failing despite stable disaster frequencies.
+## 📌 Project Overview
 
-2. Regional Risk Hotspots (Geospatial Analysis)
+This project transforms **28,000+ raw disaster records** into an interactive analytics dashboard designed to shift disaster management from **reactive response → proactive mitigation**.
 
-Insight: Pinpoints high-fatality zones and disaster-prone cities like Bogor and Sukabumi.
+By correlating disaster frequency with human and infrastructure impact, this dashboard provides a **data-driven foundation ("Ground Truth")** for:
 
-Impact: Optimizes Logistics Pre-positioning; ensuring relief goods and rescue personnel are stationed within 2 hours of identified high-risk "hotspots."
+* Emergency budgeting
+* Resource allocation
+* Risk prioritization
 
-3. Fatality vs. Property Damage Correlation
+---
 
-Insight: Categorizes disasters into "High-Lethality" (e.g., Earthquakes) vs. "High-Economic Loss" (e.g., Floods).
+## 📊 Key Insights & Operational Impact
 
-Impact: Directs Budget Prioritization—prioritizing expensive drainage infrastructure for flood zones and community evacuation drills for high-fatality regions.
+### 1. Executive KPIs & Growth Trends
 
-4. Temporal Risk Velocity (Quarterly Trends)
+* **Insight:** Real-time tracking of **83K victims** and **6M infrastructure impact** with dynamic Year-over-Year (YoY) growth.
+* **Impact:** Detects severity escalation, helping authorities evaluate whether mitigation policies are effective.
 
-Insight: Tracks quarterly disaster peaks against death contribution percentages.
+---
 
-Impact: Enables Seasonal Workforce Optimization; increasing emergency readiness during Q4/Q1 monsoon peaks to reduce the "Golden Hour" response time.
+### 2. Regional Risk Hotspots (Geospatial Analysis)
 
-Strategic Recommendations
-Pre-Disaster Investment: Shift budget from post-disaster recovery to Targeted Retrofitting in high-damage provinces to reduce long-term rehabilitation costs.
+* **Insight:** Identifies high-risk areas such as **Bogor** and **Sukabumi**.
+* **Impact:** Enables **logistics pre-positioning**, ensuring emergency response can be deployed within **2 hours**.
 
-Infrastructure Bundling: Integrate Early Warning Systems (EWS) specifically in cities with the highest "Victim-per-Event" ratio to cut casualty rates by up to 30%.
+---
 
-Policy Refinement: Use the Data Discovery (Pivot View) to audit building codes in regions showing high infrastructure damage despite low disaster intensity.
+### 3. Fatality vs Property Damage Correlation
 
-Technical Showcase
-Tools: Power BI, Power Query, DAX.
+* **Insight:** Classifies disasters into:
 
-Key Logic: Developed dynamic measures to calculate YoY Growth for adaptive trend monitoring.
+  * **High-Lethality** (e.g., earthquakes)
+  * **High-Economic Loss** (e.g., floods)
+* **Impact:** Supports **budget prioritization**, such as:
 
-📊 [Link to Dashboard] | 📄 [Link to Documentation]
+  * Evacuation training → high-lethality areas
+  * Infrastructure investment → flood-prone regions
+
+---
+
+### 4. Temporal Risk Velocity (Quarterly Trends)
+
+* **Insight:** Tracks disaster peaks and death contribution per quarter.
+* **Impact:** Enables **seasonal workforce optimization**, especially during **Q4–Q1 (monsoon season)** to improve response time.
+
+---
+
+## 🧠 Strategic Recommendations
+
+* **Pre-Disaster Investment**
+  Shift budget toward **targeted retrofitting** in high-risk areas to reduce long-term recovery costs.
+
+* **Infrastructure Bundling**
+  Deploy **Early Warning Systems (EWS)** in areas with high **victim-per-event ratio** to reduce casualties by up to **30%**.
+
+* **Policy Refinement**
+  Use data exploration (pivot analysis) to audit **building codes** in regions with disproportionate infrastructure damage.
+
+---
+
+## 🛠️ Technical Implementation
+
+* **Tools:** Power BI, Power Query, DAX
+* **Key Features:**
+
+  * Dynamic YoY Growth calculations
+  * Interactive geospatial visualization
+  * Drill-down analysis for regional insights
+
+---
+
+## 🔗 Resources
+
+* 📊 Dashboard: *[Insert Link Here]*
+* 📄 Documentation: *[Insert Link Here]*
