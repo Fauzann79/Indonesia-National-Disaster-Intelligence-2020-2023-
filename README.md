@@ -51,7 +51,7 @@ human survival risk and economic/system disruption risk.
 **Impact:**  
 Budget allocation should be split strategically—prioritizing early warning and evacuation drills in high-fatality zones, and infrastructure investment (drainage, urban planning) in high-damage areas.
 
-![Correlation Analysis](assets/correlation.png)
+![Correlation Analysis](Dashboard/scatter.png)
 
 ---
 
