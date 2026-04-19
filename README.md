@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes more than **28,000 disaster records across Indonesia** to uncover how disasters impact people and infrastructure. The dashboard is built not just to report data, but to support **data-driven decision making** in disaster management.
 
-![Dashboard Overview](assets/overview.png)
+![Dashboard Overview](Dashboard/Dashboard_Overview.png)
 
 ---
 
