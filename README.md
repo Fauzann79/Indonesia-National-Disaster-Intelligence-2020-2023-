@@ -1,82 +1,51 @@
-Berikut versi yang sudah dirapikan dan cocok untuk **README.md (GitHub)** — lebih clean, profesional, dan enak dibaca:
-
----
-
-# 🇮🇩 Indonesia National Disaster Intelligence (2020–2023)
+# 🇮🇩 National Disaster Impact Analysis (2020–2023)
 
 ## 📌 Project Overview
+This project analyzes more than **28,000 disaster records across Indonesia** to uncover how disasters impact people and infrastructure. The dashboard is built not just to report data, but to support **data-driven decision making** in disaster management.
 
-This project transforms **28,000+ raw disaster records** into an interactive analytics dashboard designed to shift disaster management from **reactive response → proactive mitigation**.
-
-By correlating disaster frequency with human and infrastructure impact, this dashboard provides a **data-driven foundation ("Ground Truth")** for:
-
-* Emergency budgeting
-* Resource allocation
-* Risk prioritization
+![Dashboard Overview](assets/overview.png)
 
 ---
 
-## 📊 Key Insights & Operational Impact
+## 🔍 Key Analysis & Impact
 
-### 1. Executive KPIs & Growth Trends
+- **Rising Severity Despite Stable Frequency**  
+  The data shows that while disaster frequency does not increase significantly, the total number of victims (83K) and infrastructure damage (6M) continues to grow. This indicates that disasters are becoming more severe, not more frequent. The implication is clear: current mitigation efforts are not keeping up with impact, and investment needs to shift toward **resilience-building measures** such as stronger infrastructure and improved preparedness systems.
 
-* **Insight:** Real-time tracking of **83K victims** and **6M infrastructure impact** with dynamic Year-over-Year (YoY) growth.
-* **Impact:** Detects severity escalation, helping authorities evaluate whether mitigation policies are effective.
+- **Concentrated Regional Risk (Jawa Barat Hotspot)**  
+  Geospatial analysis highlights that disaster impact is heavily concentrated in specific regions, especially Jawa Barat (Bogor and Sukabumi). This means risk is not evenly distributed across the country. With this insight, resource allocation can be optimized by focusing on high-risk areas, enabling **faster emergency response and more efficient use of logistics and budget**.
 
----
+![Geospatial Analysis](assets/geo.png)
 
-### 2. Regional Risk Hotspots (Geospatial Analysis)
+- **Different Disaster Types, Different Strategies**  
+  The comparison between fatalities and infrastructure damage reveals two distinct patterns: earthquakes tend to cause higher deaths, while floods and extreme weather drive larger economic losses. This distinction shows that a single mitigation strategy is ineffective. Instead, it supports a more targeted approach—**prioritizing evacuation systems for high-fatality risks and infrastructure investment for high-damage risks**.
 
-* **Insight:** Identifies high-risk areas such as **Bogor** and **Sukabumi**.
-* **Impact:** Enables **logistics pre-positioning**, ensuring emergency response can be deployed within **2 hours**.
+![Correlation Analysis](assets/correlation.png)
 
----
+- **Seasonal Disaster Patterns (Q4–Q1 Peak)**  
+  The data consistently shows increased disaster activity and impact during the monsoon period (Q4 to Q1). This confirms that disaster risk is cyclical and predictable. As a result, emergency response planning can be adjusted seasonally, allowing for **temporary scaling of workforce and resources during peak periods without increasing permanent operational costs**.
 
-### 3. Fatality vs Property Damage Correlation
+- **Infrastructure Vulnerability Beyond Disaster Intensity**  
+  Some regions experience high infrastructure damage despite relatively low disaster intensity, indicating that the issue lies in structural vulnerability rather than the disasters themselves. This insight highlights the importance of **policy intervention, such as enforcing building standards and prioritizing retrofitting**, to reduce long-term losses.
 
-* **Insight:** Classifies disasters into:
-
-  * **High-Lethality** (e.g., earthquakes)
-  * **High-Economic Loss** (e.g., floods)
-* **Impact:** Supports **budget prioritization**, such as:
-
-  * Evacuation training → high-lethality areas
-  * Infrastructure investment → flood-prone regions
+![Data Table Insight](assets/table.png)
 
 ---
 
-### 4. Temporal Risk Velocity (Quarterly Trends)
+## 🧠 Conclusion
+This analysis shows that disaster management is not just about responding to events, but about understanding **where impact is concentrated, how risks differ, and when they peak**.
 
-* **Insight:** Tracks disaster peaks and death contribution per quarter.
-* **Impact:** Enables **seasonal workforce optimization**, especially during **Q4–Q1 (monsoon season)** to improve response time.
-
----
-
-## 🧠 Strategic Recommendations
-
-* **Pre-Disaster Investment**
-  Shift budget toward **targeted retrofitting** in high-risk areas to reduce long-term recovery costs.
-
-* **Infrastructure Bundling**
-  Deploy **Early Warning Systems (EWS)** in areas with high **victim-per-event ratio** to reduce casualties by up to **30%**.
-
-* **Policy Refinement**
-  Use data exploration (pivot analysis) to audit **building codes** in regions with disproportionate infrastructure damage.
+By translating raw data into actionable insights, this project enables more **focused, efficient, and strategic decision-making** in disaster mitigation and response.
 
 ---
 
 ## 🛠️ Technical Implementation
-
-* **Tools:** Power BI, Power Query, DAX
-* **Key Features:**
-
-  * Dynamic YoY Growth calculations
-  * Interactive geospatial visualization
-  * Drill-down analysis for regional insights
+- Power BI  
+- Power Query  
+- DAX (for dynamic KPI & YoY analysis)
 
 ---
 
 ## 🔗 Resources
-
-* 📊 Dashboard: *[Insert Link Here]*
-* 📄 Documentation: *[Insert Link Here]*
+- 📊 Dashboard: [Insert Link]  
+- 📄 Documentation: [Insert Link]
