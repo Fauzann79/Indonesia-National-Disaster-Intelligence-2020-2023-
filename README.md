@@ -75,7 +75,7 @@ Some regions show high infrastructure damage despite relatively low disaster int
 **Impact:**  
 This highlights the need to audit and enforce building codes, prioritize retrofitting over rebuilding, and reduce long-term recovery costs significantly.
 
-![Data Table Insight](Dashboard/Table.png)
+![Data Table Insight](Dashboard/FacilityDamaged.png)
 
 ---
 
