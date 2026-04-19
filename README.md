@@ -7,7 +7,7 @@ This project analyzes **28,000+ disaster records across Indonesia** to uncover p
 The goal is simple:  
 move from **“data reporting” → “decision-making tool.”**
 
-![Dashboard Overview](assets/overview.png)
+![Dashboard Overview](Dashboard/Dashboard_Overview.png)
 
 ---
 
@@ -34,7 +34,7 @@ Geospatial analysis highlights clustered hotspots—especially in Jawa Barat (Bo
 **Impact:**  
 Instead of spreading resources thin, this enables pre-positioning logistics in high-risk zones, reducing response time to under 2 hours, and creating more efficient disaster budgeting.
 
-![Geospatial Analysis](assets/geo.png)
+![Geospatial Analysis](Dashboard/Geographical.png)
 
 ---
 
@@ -75,7 +75,7 @@ Some regions show high infrastructure damage despite relatively low disaster int
 **Impact:**  
 This highlights the need to audit and enforce building codes, prioritize retrofitting over rebuilding, and reduce long-term recovery costs significantly.
 
-![Data Table Insight](assets/table.png)
+![Data Table Insight](Dashboard/Table.png)
 
 ---
 
