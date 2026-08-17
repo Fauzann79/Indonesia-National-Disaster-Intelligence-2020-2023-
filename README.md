@@ -18,7 +18,7 @@ move from **“data reporting” → “decision-making tool.”**
 The dashboard shows that while disaster frequency fluctuates, total victims (83K) and infrastructure impact (6M) continue to grow.
 
 👉 This reveals a critical gap:  
-even when disasters don’t increase significantly, their severity does.
+While disaster frequency fluctuates across the period, total human and infrastructure impacts vary substantially, indicating that event frequency alone does not explain disaster severity.
 
 **Impact:**  
 This signals that current mitigation strategies are not scaling effectively. Authorities should shift focus from response capacity → resilience building, such as stronger building standards and better evacuation systems.
@@ -70,7 +70,7 @@ This enables temporary workforce scaling, increased readiness during peak period
 
 Some regions show high infrastructure damage despite relatively low disaster intensity.
 
-👉 This is not a disaster problem — it’s a policy/building quality problem.
+👉 Infrastructure damage is not fully explained by disaster intensity alone.
 
 **Impact:**  
 This highlights the need to audit and enforce building codes, prioritize retrofitting over rebuilding, and reduce long-term recovery costs significantly.
@@ -95,7 +95,7 @@ The real value of this dashboard:
 - **Key Features:**
   - Dynamic YoY calculations  
   - Geospatial hotspot mapping  
-  - Correlation analysis (fatality vs damage)  
+  - Correlation analysis (Fatalities vs. Infrastructure Damage)
   - Drill-down exploration (province → city level)  
 
 ---
